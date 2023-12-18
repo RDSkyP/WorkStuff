@@ -9,3 +9,4 @@ VideoLAN.VLC
 Notepad++.Notepad++
 TeamViewer.TeamViewer.Host
 TeamViewer.TeamViewer
+JGraph.Draw
