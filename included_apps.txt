@@ -10,3 +10,6 @@ Notepad++.Notepad++
 TeamViewer.TeamViewer.Host
 TeamViewer.TeamViewer
 JGraph.Draw
+PuTTY.PuTTY
+OpenJS.NodeJS
+Microsoft.VisualStudioCode
