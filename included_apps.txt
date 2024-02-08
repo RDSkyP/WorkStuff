@@ -13,3 +13,4 @@ JGraph.Draw
 PuTTY.PuTTY
 OpenJS.NodeJS
 Microsoft.VisualStudioCode
+Ultimaker.Cura
