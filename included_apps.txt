@@ -14,3 +14,4 @@ PuTTY.PuTTY
 OpenJS.NodeJS
 Microsoft.VisualStudioCode
 Ultimaker.Cura
+Inkscape.Inkscape
