@@ -16,3 +16,4 @@ Microsoft.VisualStudioCode
 Ultimaker.Cura
 Inkscape.Inkscape
 Anaconda.Anaconda3
+Prusa3D.PrusaSlicer
