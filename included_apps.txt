@@ -17,3 +17,4 @@ Ultimaker.Cura
 Inkscape.Inkscape
 Anaconda.Anaconda3
 Prusa3D.PrusaSlicer
+Foxit.FoxitReader
