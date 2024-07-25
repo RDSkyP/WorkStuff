@@ -19,3 +19,4 @@ Anaconda.Anaconda3
 Prusa3D.PrusaSlicer
 Foxit.FoxitReader
 7zip.7zip
+OBSProject.OBSStudio
