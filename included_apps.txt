@@ -21,3 +21,6 @@ Foxit.FoxitReader
 7zip.7zip
 OBSProject.OBSStudio
 Microsoft.DotNet.DesktopRuntime.6
+Python.Python.3.12
+Python.Python.3.13
+Python.Python.3.11
