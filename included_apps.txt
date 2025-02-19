@@ -25,3 +25,4 @@ Python.Python.3.12
 Python.Python.3.13
 Python.Python.3.11
 SlackTechnologies.Slack
+OSGeo.QGIS_LTR
